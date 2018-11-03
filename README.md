@@ -83,8 +83,11 @@ At present, deep learning mainly has:
   
   Also the google family **GoogleNet**
       [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
+      
       [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
+      
       [ Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
+      
       [ Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
       
   Learn **Fine-tune**, start to improve code

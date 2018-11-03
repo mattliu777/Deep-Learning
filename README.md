@@ -8,3 +8,6 @@ If the input is an audio, you need to simulate something similar to a function. 
 
 If the input is a picture, you want to simulate a complex function so that its output is what this picture is.
 **f() = "Cat"**
+
+If the input is a Go board, you want to simulate a complex function and let it tell you where to go next.
+**f() = "1-2"**

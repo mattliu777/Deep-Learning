@@ -34,4 +34,64 @@ At present, deep learning mainly has:
 **What to learn?** The first subject to learn or to start should be CNN.
 
 **How?** 
-  **Books**[Deep Learning](http://www.deeplearningbook.org/)
+  **Books**
+    [Deep Learning](http://www.deeplearningbook.org/)
+  **Course**
+    [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+    [Machine Learning and having it deep and structured (2017,Spring)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html)
+    [Deep Learning Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+
+## The stuff you should cover
+
+  Understand what is Image Classification
+  
+  Make prediction with some simple linear models(SVM,KNN)
+  
+  Learn about Optimization, LossFunction and Gradient descent
+  
+  Learn about Backpropagation
+  
+  Learn about Neural Network
+  
+    Learn about Normalization, Pooling, Convolution
+  
+    Get hands on Tensorflow，Keras，Pytorch，Caffe
+    
+    read other project's code
+    
+    Learn about cifar10 and ImageNet
+  
+  Start your first CNN model: **[LeNet-5 - Yann LeCun](http://yann.lecun.com/exdb/lenet/)**
+  
+  Then **[AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)**
+  
+  Then **[ZF Net](https://arxiv.org/abs/1311.2901)**
+  
+  Also **[Network in Network](https://arxiv.org/abs/1312.4400)**
+  
+  And start to learn some CNN training trick:
+      
+      Data Augmentation
+      
+      Xavier/He Weight initial
+      
+      Batch Normalization
+      
+      L2/L1/Maxnorm/Dropout
+      
+  Learn the famous **[Vgg Network](https://arxiv.org/abs/1409.1556)**
+  
+  Also the google family **GoogleNet**
+      [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
+      [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
+      [ Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
+      [ Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
+      
+  Learn **Fine-tune**, start to improve code
+  
+  Don't forget the [Residual Network](https://arxiv.org/abs/1512.03385)
+  
+  [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431)
+  
+  
+      

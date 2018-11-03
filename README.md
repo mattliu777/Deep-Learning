@@ -8,7 +8,9 @@ If the input is an audio, you need to simulate something similar to a function. 
 **f(![image](https://github.com/mattliu777/Deep-Learning/blob/master/image/audioicon_e4_rel.jpg)) = "Hello World"**
 
 If the input is a picture, you want to simulate a complex function so that its output is what this picture is.
-**f() = "Cat"**
+
+**f(![image](https://github.com/mattliu777/Deep-Learning/blob/master/image/p0517py6.jpg)) = "Cat"**
 
 If the input is a Go board, you want to simulate a complex function and let it tell you where to go next.
-**f() = "1-2"**
+
+**f(![image](https://github.com/mattliu777/Deep-Learning/blob/master/image/main-qimg-db601a17da862a35f8ad006aa70e96f1-c.jpg)) = "1-2"**

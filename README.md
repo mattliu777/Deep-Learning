@@ -14,3 +14,5 @@ If the input is a picture, you want to simulate a complex function so that its o
 If the input is a Go board, you want to simulate a complex function and let it tell you where to go next.
 
 **f(![image](https://github.com/mattliu777/Deep-Learning/blob/master/image/main-qimg-db601a17da862a35f8ad006aa70e96f1-c.jpg)) = "1-2"**
+
+Yes, you can think that machine learning is looking for this complicated "function" because it is complex, it is not certain, it is nonlinear, so you need to design some algorithms to let the machine learn what exactly is this complicated "function". That's what machine learning is. People will make some decisions, some judgments, you hope, using some existing data, training the machine, so that the machine can also learn how to make decisions, or even do better.

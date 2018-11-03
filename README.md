@@ -29,3 +29,9 @@ At present, deep learning mainly has:
 **Generative Adversarial Networks**
 
 **Deep Reinforcement Learning**
+
+## How to Start?
+**What to learn?** The first subject to learn or to start should be CNN.
+
+**How?** 
+  **Books**[Deep Learning](http://www.deeplearningbook.org/)

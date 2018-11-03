@@ -16,3 +16,16 @@ If the input is a Go board, you want to simulate a complex function and let it t
 **f(![image](https://github.com/mattliu777/Deep-Learning/blob/master/image/main-qimg-db601a17da862a35f8ad006aa70e96f1-c.jpg)) = "1-2"**
 
 Yes, you can think that machine learning is looking for this complicated "function" because it is complex, it is not certain, it is nonlinear, so you need to design some algorithms to let the machine learn what exactly is this complicated "function". That's what machine learning is. People will make some decisions, some judgments, you hope, using some existing data, training the machine, so that the machine can also learn how to make decisions, or even do better.
+
+## What is Deep Learning?
+Deep learning is a subclass of machine learning. In other words, it is actually a way to implement machine learning. With the rapid development of computer hardware and software, people realize that the neural network can be used to simulate the human brain, and the word depth means nerve. The network has many layers. Looking back, how do you think about your brain? How does your biology teacher tell you how the signal is transmitted in the brain.
+
+At present, deep learning mainly has:
+
+**Convolutional Neural Network**
+
+**Recurrent Neural Network**
+
+**Generative Adversarial Networks**
+
+**Deep Reinforcement Learning**
